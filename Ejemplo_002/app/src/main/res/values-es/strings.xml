@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejemplo 002</string>
+    <string name="Sus_datos">Sus datos</string>
+    <string name="borrar_datos">Limpiar datos</string>
+    <string name="clase_persona">Clase persona</string>
+    <string name="ejercicio">Ejercicio</string>
+    <string name="estatura">Estatura</string>
+    <string name="hombre">Hombre</string>
+    <string name="imc">Calcular IMC</string>
+    <string name="lenguaje">Lenguaje</string>
+    <string name="mostrar_datos_de_la_persona">Mostrar datos de la persona</string>
+    <string name="mujer">Mujer</string>
+    <string name="nombre">Nombre</string>
+    <string name="peso">Peso</string>
+    <string name="resultado">Resultado</string>
+    <string name="se_ejercita_diariamente">Hace ejercicio diariamente</string>
+    <string name="bajoPeso">Bajo peso</string>
+    <string name="pesoNormal">Peso Normal</string>
+    <string name="sobre_peso">Sobre Peso</string>
+    <string name="salud_1_1">Es necesario que se alimente correctamente, para que su salud sea una de </string>
+    <string name="salud_1_3">,que tener sobreso ?   quiero asegurarme que no lo sabia, así que le recomendamos tener una buena alimentación </string>
+    <string name="salud_2_1">Se ha detectado que usted tiene un buen indice de masa muscular, mantenga esa alimentación, porque es </string>
+    <string name="salud_2_2"> esencial estar con buena salud"</string>
+    <string name="salud_3_1"> se recomienda que regule su aliementación o que acuda al medico de ser necesario para que le oriente, </string>
+    <string name="salud_3_2">y le muestre los problemas que causa tener sobreso.</string>
+    <string name="saludo_1_2"> las mejores y que no tenga problemas con esta, ¿Sabía usted que es más peligroso estar bajo de peso </string>
+</resources>

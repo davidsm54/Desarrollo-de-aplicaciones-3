@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondo"
+    tools:context="com.davidsm54.ejemplo_002.MainActivity">
+
+    <Button
+        android:text="@string/lenguaje"
+        android:layout_width="139dp"
+        android:layout_height="37dp"
+        android:id="@+id/btnleng"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre"
+        android:id="@+id/nombre"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:id="@+id/txtNombre"
+        style="@android:style/Widget.DeviceDefault.EditText"
+        android:selectAllOnFocus="false" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/peso" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:id="@+id/txtPeso"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/estatura" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:id="@+id/txtEstatura"/>
+
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/se_ejercita_diariamente"
+        android:id="@+id/chEjercicio"
+        android:checked="false" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hombre"
+            android:id="@+id/rdHombre"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mujer"
+            android:id="@+id/rdMujer"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"/>
+    </RadioGroup>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mostrar_datos_de_la_persona"
+        android:id="@+id/btnCalcular"
+        android:layout_weight="1"
+        android:onClick='android:onClick="activity_splash_screen"'
+        style="@android:style/Widget.Button" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/borrar_datos"
+        android:id="@+id/btnLimpiar"
+        android:layout_weight="1"
+        style="@android:style/Widget.Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:id="@+id/txVResultado"
+        android:text="@string/resultado"/>
+
+</LinearLayout>

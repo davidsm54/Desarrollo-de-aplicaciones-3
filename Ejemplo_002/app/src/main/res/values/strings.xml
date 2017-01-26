@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="str_en" >English</string>
+    <string name="str_es" >Spanish</string>
+    <string name="str_fra" >French</string>
+    <string-array name="languages" >
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+        <item>@string/str_fra</item>
+    </string-array>
+
+    <string name="app_name">Ejemplo_002</string>
+    <string name="nombre">Nombre</string>
+    <string name="peso">peso</string>
+    <string name="estatura">estatura</string>
+    <string name="ejercicio">ejercicio</string>
+    <string name="hombre">hombre</string>
+    <string name="mujer">mujer</string>
+    <string name="imc">Calcular IMC</string>
+    <string name="borrar_datos">Borrar Datos</string>
+    <string name="resultado">resultado</string>
+    <string name="clase_persona">Clase Persona</string>
+    <string name="mostrar_datos_de_la_persona">Mostrar Datos de la Persona</string>
+    <string name="lenguaje">Lenguaje</string>
+    <string name="Sus_datos">Sus datos \n</string>
+    <string name="se_ejercita_diariamente">Se ejercita diariamente</string>
+    <string name="bajoPeso">Bajo peso</string>
+    <string name="pesoNormal">Peso Normal</string>
+    <string name="sobre_peso">Sobre Peso</string>
+    <string name="salud_1_1">Es necesario que se alimente correctamente, para que su salud sea una de</string>
+    <string name="saludo_1_2"> las mejores y que no tenga problemas con esta, ¿Sabía usted que es más peligroso estar bajo de peso </string>
+    <string name="salud_1_3"> ,que tener sobreso ? \n quiero asegurarme que no lo sabia, así que le recomendamos tener una buena alimentación </string>
+    <string name="salud_2_1">Se ha detectado que usted tiene un buen indice de masa muscular, mantenga esa alimentación, porque es </string>
+    <string name="salud_2_2"> esencial estar con buena salud</string>
+    <string name="salud_3_1">" se recomienda que regule su aliementación o que acuda al medico de ser necesario para que le oriente, "</string>
+    <string name="salud_3_2">y le muestre los problemas que causa tener sobreso.</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Example 002</string>
+    <string name="nombre">Nom</string>
+    <string name="peso">Poid</string>
+    <string name="estatura">Stature</string>
+    <string name="ejercicio">Exercice</string>
+    <string name="hombre">Homme</string>
+    <string name="mujer">Femme</string>
+    <string name="imc">Calculer IMC</string>
+    <string name="borrar_datos">Quitter les données</string>
+    <string name="resultado">Result</string>
+    <string name="clase_persona">Personne classe</string>
+    <string name="mostrar_datos_de_la_persona">Afficher données du personne</string>
+    <string name="Sus_datos">Votre données</string>
+    <string name="lenguaje">Langue</string>
+    <string name="se_ejercita_diariamente">S´exercez-vous toujours</string>
+    <string name="bajoPeso">Faible poids</string>
+    <string name="pesoNormal">Normal poid</string>
+    <string name="sobre_peso">Embonpoint</string>
+    <string name="salud_1_1">Il faut que vous avez une bonne alimentation </string>
+    <string name="salud_1_3">" qu´avoir obésité? Je veux etre sur, ainsi que je vous recommande avoir une bonne alimentation "</string>
+    <string name="salud_2_1">On regarde que vous avez un bon IMC, Vous maintenez avec cet alimetation car est </string>
+    <string name="salud_2_2"> essentielle etre avec bonne alimentation</string>
+    <string name="salud_3_1">Il faut que vous avez une bonne alimentation ou que vous allez avec un docteur d\'etre necesaire par que lui donne des conseils</string>
+    <string name="salud_3_2"> et il vous montre les problemes que cause avoir obesité</string>
+    <string name="saludo_1_2">"les melleiures et que vous n´avez pas des problemes avec cette. Connez-vous que est plus dangereus etre faible poitd "</string>
+</resources>
